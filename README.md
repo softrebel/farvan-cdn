@@ -14,7 +14,7 @@ This repository includes a Chrome extension and a web API for bypassing the prot
 
 These government websites, typically serving as information portals, are designed to provide services and information to users without considering their identity. However, with this protection mechanism in place, users who frequently visit these portals face significant delays. Even the stored cookies have a short expiration time.
 
-![image_2024-09-26_12-20-00.png](./assets/image_2024-09-26_12-20-00.png)
+![arvan_cdn.png](./assets/arvan_cdn.png)
 
 Therefore, we decided to use a web API and a Chrome extension to automatically bypass this protection mechanism, allowing users to connect to government information portals more quickly.
 
