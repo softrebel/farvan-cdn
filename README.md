@@ -1,14 +1,18 @@
+<p align="center">
+  <img src="./assets/logo.png" />
+</p>
+
 # FArvan CDN
 
 This repository includes a Chrome extension and a web API for bypassing the protection mechanism of ArvanCloud, which is configured on government websites.
 
-**Before**
 
-![farvan_before.gif](./assets/farvan_before.gif)
 
-**After**
 
-![farvan_after.gif](./assets/farvan_after.gif)
+| **Before** | **After** |
+| --- | --- |
+| ![farvan_before.gif](./assets/farvan_before.gif) | ![farvan_after.gif](./assets/farvan_after.gif) |
+|  |  |
 
 ## Problem Statement
 
